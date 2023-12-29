@@ -24,7 +24,9 @@
 		public int DepartmentCount { get; set; }
 		public int DoctorCount { get; set; }
 		public int NurseCount { get; set; }
-	}
+		public int StaffCount { get; set; }
+
+    }
 
 	public class DiagnosisAgeItem
 	{
